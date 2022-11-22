@@ -1,0 +1,1 @@
+1, Male Fashion$2, Female Fashion$3, Kids Fashion$4, Electronics$
